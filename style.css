@@ -3,3 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+header, figure {
+  text-align-last: center;
+}
+navbar a {
+  padding: right,left  10px;
+  background-color: grey;
+
+}
